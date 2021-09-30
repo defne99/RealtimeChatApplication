@@ -4,3 +4,4 @@ Created a web application in which users can chat in real-time and share posts o
 - Express.js
 - React.js
 - Node.js
+- Socket.io
